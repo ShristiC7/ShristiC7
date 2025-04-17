@@ -39,8 +39,7 @@ I'm a passionate full-stack developer focused on building impactful web applicat
 ## 🔗 Connect with Me
 
 - GitHub: [@ShristiC7](https://github.com/ShristiC7)
-- LinkedIn: Shristi Choudhary
-(https://www.linkedin.com/in/shristi-c-3a3518290/)
+- LinkedIn: [Shristi Choudhary](https://www.linkedin.com/in/shristi-c-3a3518290/)
 
 ---
 
