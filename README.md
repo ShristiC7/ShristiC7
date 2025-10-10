@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hello! I'm Shristi 👋<br>I'm a passionate full-stack developer focused on building impactful web applications. I enjoy solving problems with code and am continuously learning new technologies to expand my skills.<br><br>
 
 ## 🔧 Technologies & Skills<br>Front-end: HTML, CSS, JavaScript, EJS, React<br>Back-end: Node.js, Express.js, PostgreSQL, MongoDB<br>APIs: Worked with Open Library Covers API, Pokémon API<br>Version Control: Git, GitHub<br>Data Structures & Algorithms: Actively working on mastering DSA<br>Deployment: GitHub Pages<br>
