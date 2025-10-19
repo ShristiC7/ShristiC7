@@ -8,7 +8,7 @@ Hello! I'm Shristi 👋<br>I'm a passionate full-stack developer focused on buil
 ## 📚 Learning & Goals<br>Full-stack development: Working towards becoming proficient in both front-end and back-end technologies.<br>
 ## 🌱 Fun Facts<br>I'm always up for a coding challenge!<br>I enjoy exploring new libraries and frameworks, and am currently exploring the world of AI.<br>When not coding, you can find me reading books, exploring new tech, or playing strategy games.<br>
 ## 🔗 Connect with Me<br>GitHub: @ShristiC7<br>LinkedIn: Shristi Choudhary<br>
-## 📝 About My Projects<br>Feel free to explore my repositories! I'm always looking for feedback and contributions.
+## 📝 About My Projects<br>Feel free to explore my repositories! I'm always looking for feedback and contributions
 
 
 ## 🌐 Socials:
