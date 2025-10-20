@@ -1,7 +1,7 @@
 # 💫 About Me
 Hello! I'm Shristi 👋<br>I'm a passionate full-stack developer focused on building impactful web applications. I enjoy solving problems with code and am continuously learning new technologies to expand my skills.<br><br>
 
-## 🔧 Technologies & Skills<br>Front-end: HTML, CSS, JavaScript, EJS, React <br>Back-end: Node.js, Express.js, Python<br> Databases: PostgreSQL, MongoDB<br>APIs: Worked with Open Library Covers API, Pokémon API<br>Version Control: Git, GitHub<br>Data Structures & Algorithms: Actively working on mastering DSA<br>Deployment: GitHub Pages<br>
+## 🔧 Technologies & Skills<br>Front-end: HTML, CSS, JavaScript, EJS, React <br>Back-end: Node.js, Express.js, Python<br> Databases: PostgreSQL, MongoDB<br>APIs: Worked with Open Library Covers API, Pokémon API<br>Version Control: Git, GitHub<br>Data Structures & Algorithms: Actively working on mastering DSA<br>Deployment: GitHub Pages <br>
 
 
 ## 🚀 Current Projects<br>Book Journal: Building a personal book journal website with Express/Node.js, PostgreSQL, and the Open Library Covers API.<br>Roman Numeral Converter: A web app that converts numbers to Roman numerals and vice versa using vanilla JavaScript.<br>*Pokemon* :A random pokemon stats card generator using poke api. <br>
