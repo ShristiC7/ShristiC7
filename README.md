@@ -6,7 +6,7 @@ Front-end: HTML, CSS, JavaScript, EJS, React <br>Back-end: Node.js, Express.js, 
 
 
 ## 🚀 Current Projects<br> 
-ClauseWise:  AI Document Risk & Compliance Analyzer for SMBs (fully functional and live)
+ClauseWise:  AI Document Risk & Compliance Analyzer for SMBs (fully functional and live) <br>
 Book Journal: Building a personal book journal website with Express/Node.js, PostgreSQL, and the Open Library Covers API.<br>Roman Numeral Converter: A web app that converts numbers to Roman numerals and vice versa using vanilla JavaScript.<br>*Pokemon* :A random pokemon stats card generator using poke api. <br>
 ## 📚 Learning & Goals<br>Full-stack development: 
 Working towards becoming proficient in both front-end and back-end technologies.<br>
