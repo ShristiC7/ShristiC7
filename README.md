@@ -6,12 +6,13 @@ Front-end: HTML, CSS, JavaScript, EJS, React <br>Back-end: Node.js, Express.js, 
 
 
 ## 🚀 Current Projects<br> 
-MediFast: Online Medical Wellness Platform (SIH Internal Hackathon winning) <br>
-ClauseWise:  AI Document Risk & Compliance Analyzer for SMBs (fully functional and live) <br>
+MediFast: Online Medical Wellness Platform (SIH Internal Hackathon winning) <br><br>
+ClauseWise:  AI Document Risk & Compliance Analyzer for SMBs (fully functional and live) <br><br>
 eDNA Biodiversity Analysis Platform:
-A comprehensive environmental DNA (eDNA) analysis platform for marine biodiversity research, conservation alerts, and citizen science contributions. (Hackathon Project) <br>
-MoodTune: Mood-Based Playlist Generator is an AI-powered web app <br>
-Book Journal: Building a personal book journal website with Express/Node.js, PostgreSQL, and the Open Library Covers API.<br>Roman Numeral Converter: A web app that converts numbers to Roman numerals and vice versa using vanilla JavaScript.<br>*Pokemon* :A random pokemon stats card generator using poke api. <br>
+A comprehensive environmental DNA (eDNA) analysis platform for marine biodiversity research, conservation alerts, and citizen science contributions. (Hackathon Project) <br><br>
+MoodTune: Mood-Based Playlist Generator is an AI-powered web app <br><br>
+AiUPSKILL: AI-Assisted Employee Upskilling Platform<br><br>
+Book Journal: Building a personal book journal website with Express/Node.js, PostgreSQL, and the Open Library Covers API.<br><br>Roman Numeral Converter: A web app that converts numbers to Roman numerals and vice versa using vanilla JavaScript.<br><br>*Pokemon* :A random pokemon stats card generator using poke api. <br><br>
 ## 📚 Learning & Goals<br>Full-stack development: 
 Working towards becoming proficient in both front-end and back-end technologies.<br>
 ## 🌱 Fun Facts<br>
