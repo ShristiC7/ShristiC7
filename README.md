@@ -6,7 +6,7 @@ Front-end: HTML, CSS, JavaScript, EJS, React <br>Back-end: Node.js, Express.js, 
 
 
 ## 🚀 Current Projects<br> 
-MediFast: Online Medical Wellness Platform (SIH Internal Hackathon winning) <br><br>
+MediFast: Online Medical Wellness Platform (SIH Internal Hackathon Selected) <br><br>
 ClauseWise:  AI Document Risk & Compliance Analyzer for SMBs (fully functional and live) <br><br>
 eDNA Biodiversity Analysis Platform:
 A comprehensive environmental DNA (eDNA) analysis platform for marine biodiversity research, conservation alerts, and citizen science contributions. (Hackathon Project) <br><br>
