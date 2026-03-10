@@ -6,7 +6,7 @@ Front-end: HTML, CSS, JavaScript, EJS, React <br>Back-end: Node.js, Express.js, 
 
 
 ## 🚀 Current Projects<br> 
-MindfulAI: An AI powered Digital Mental Health care system.
+MindfulAI: An AI powered Digital Mental Health care system. <br><br>
 MediFast: Online Medical Wellness Platform (Physical Health) (SIH Internal Hackathon Selected) <br><br>
 ClauseWise:  AI Document Risk & Compliance Analyzer for SMBs (fully functional and live) <br><br>
 eDNA Biodiversity Analysis Platform:
