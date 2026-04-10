@@ -38,7 +38,7 @@ Feel free to explore my repositories! I'm always looking for feedback and contri
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShristiC7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShristiC7&theme=shadow-purple&hide_border=true&border_radius=)](https://git.io/streak-stats)<br/><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShristiC7&theme=shadow-purple&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShristiC7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
